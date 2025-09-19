@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2025-09-19)
+
+
+### Features
+
+* init ([2bf7000](https://github.com/ccbblin/cuddly-fortnight/commit/2bf70003180fb2071b1466d9df63ce0fadb082a2))
+* rp ([a15332a](https://github.com/ccbblin/cuddly-fortnight/commit/a15332a8274faf90acafe66aaee257566e207ee6))
+
 ## [8.17.0](https://github.com/ccbblin/redesigned-goggles/compare/v8.16.0...v8.17.0) (2025-09-19)
 
 
