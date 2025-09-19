@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.18.0](https://github.com/ccbblin/cuddly-fortnight/compare/v8.17.0...v8.18.0) (2025-09-19)
+
+
+### Features
+
+* bla ([bcba41e](https://github.com/ccbblin/cuddly-fortnight/commit/bcba41e48af9330d0b636f09778e9865c0270782))
+* cli ([ad318b7](https://github.com/ccbblin/cuddly-fortnight/commit/ad318b722b9ad5179cfc6b2b4a63f6c3bbd8f9af))
+* dd ([7446603](https://github.com/ccbblin/cuddly-fortnight/commit/7446603bf75d473b1ebf01a84ee73ec7e6d2d559))
+* f ([449df79](https://github.com/ccbblin/cuddly-fortnight/commit/449df7996636fc2dcc35ddc5ab6ff956951cecce))
+* rp ([a15332a](https://github.com/ccbblin/cuddly-fortnight/commit/a15332a8274faf90acafe66aaee257566e207ee6))
+
 ## [8.17.0](https://github.com/ccbblin/redesigned-goggles/compare/v8.16.0...v8.17.0) (2025-09-19)
 
 
