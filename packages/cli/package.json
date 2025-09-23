@@ -1,6 +1,6 @@
 {
   "name": "@test-mono/cli",
-  "version": "7.34.0",
+  "version": "7.35.0",
   "type": "module",
   "engines": {
     "node": ">=16.0.0"
