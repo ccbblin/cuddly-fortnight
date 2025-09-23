@@ -1,3 +1,3 @@
 import {Database} from 'sqlite3';
 
-console.log(Database, "a");
+console.log(Database, "ab");
