@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.20.0](https://github.com/ccbblin/cuddly-fortnight/compare/v8.19.0...v8.20.0) (2025-09-24)
+
+
+### Features
+
+* a ([e752a8c](https://github.com/ccbblin/cuddly-fortnight/commit/e752a8cdccd2ee6872b48455a9d6fdc3302814bb))
+
 ## [8.19.0](https://github.com/ccbblin/cuddly-fortnight/compare/v8.18.0...v8.19.0) (2025-09-23)
 s
 
